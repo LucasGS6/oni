@@ -1,0 +1,28 @@
+{
+  "files": {
+    "commands/ficha.js": [
+      {
+        "id": "4bc06fc8-3f84-4a4c-970b-73708465870a",
+        "line": 11,
+        "version": 295,
+        "index": 258
+      }
+    ],
+    "commands/info.js": [
+      {
+        "id": "4c0eb562-c523-4f6d-8725-05417916b7e8",
+        "line": 11,
+        "version": 178,
+        "index": 247
+      }
+    ],
+    "config.json": [
+      {
+        "id": "144b6dc8-1243-4f78-9f16-f0341a1be76b",
+        "line": 4,
+        "version": 126,
+        "index": 99
+      }
+    ]
+  }
+}
